@@ -1,0 +1,17 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "belajar nodeJS",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "dev": "ls",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fathan abdul",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "validator": "^13.12.0"
+  }
+}
