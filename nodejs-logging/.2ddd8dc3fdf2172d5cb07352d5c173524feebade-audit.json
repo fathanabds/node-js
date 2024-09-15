@@ -1,0 +1,60 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": ".2ddd8dc3fdf2172d5cb07352d5c173524feebade-audit.json",
+    "files": [
+        {
+            "date": 1726052336402,
+            "name": "application-2024-09-11.log",
+            "hash": "b22807f83ecb7d3621b5f191e2fb63b86ed453a02eb6b1de302b601a4fb8f57b"
+        },
+        {
+            "date": 1726052338763,
+            "name": "application-2024-09-11.log.1",
+            "hash": "8a5155d0b474d50e6b46e1f7528507031d462434e05bc56e72ae6b66763c13af"
+        },
+        {
+            "date": 1726052340356,
+            "name": "application-2024-09-11.log.2",
+            "hash": "135f579563d1c6b9434fedfdb4c78f2a22ba99fc624e8fe8f929dc054f2175b5"
+        },
+        {
+            "date": 1726052341860,
+            "name": "application-2024-09-11.log.3",
+            "hash": "b2c2a874ed715477932ba2ec632e4a6fb4e5b2e4f2e7d28485dce136c202527c"
+        },
+        {
+            "date": 1726052343354,
+            "name": "application-2024-09-11.log.4",
+            "hash": "78a5c4275ab3e22a7d96d824c9479d880ab51a72b4daed846619b783b81c1221"
+        },
+        {
+            "date": 1726052344850,
+            "name": "application-2024-09-11.log.5",
+            "hash": "5e2ebf98472477723240139191a505d0fb43e0bdaadefa3186b497c3a60c35e7"
+        },
+        {
+            "date": 1726052346359,
+            "name": "application-2024-09-11.log.6",
+            "hash": "4ed2ce81af14cabdd16b533df6cee73de2dd878982583ac240b7d4d0270acddf"
+        },
+        {
+            "date": 1726052347863,
+            "name": "application-2024-09-11.log.7",
+            "hash": "1ec789bd5bfa93be34d2e77736937837faec44c3a597812369f4b13be147a6a0"
+        },
+        {
+            "date": 1726052349349,
+            "name": "application-2024-09-11.log.8",
+            "hash": "634b808264991bedc983598cc13cf2c14a5f3ec304844afbc56a24b2d5b768ac"
+        },
+        {
+            "date": 1726052350867,
+            "name": "application-2024-09-11.log.9",
+            "hash": "0109999b2f925a5837a69988cc8f29ba0b8634f707cc3e895ba711e72e52cdb1"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-jest",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
